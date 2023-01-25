@@ -8,7 +8,7 @@
      
 **installation of tools**
 
-*installed* ;
+*installed;*
 
 1.git bash
 
