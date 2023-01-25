@@ -5,6 +5,7 @@
      DAY 1
 **installation of tools** 
 *installed* ;
+
 1.git bash
 
 2.R studio
