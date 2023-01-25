@@ -18,9 +18,13 @@
 
       DAY 2
     
-**introduction to commandline 
+**introduction to commandline** 
 
       DAY 3
     
 **git  bash introduction**
+
+**installing git hub**
+
+**creating an acount in git hub**
 
