@@ -1,10 +1,10 @@
     MY FIRST
      
-**my first  repository to store and write my information**
+**my first repository to store and write my information**
 
 *i will write on bioinformatics workshop we had from 23rd  to 27th of january,2023*
 
-     DAY 1
+     **DAY ONE**
      
 **installation of tools**
 
@@ -16,11 +16,11 @@
 
 3.R 4.2.2
 
-      DAY 2
+      **DAY TWO**
     
 **introduction to commandline** 
 
-      DAY 3
+      **DAY THREE**
     
 **git  bash introduction**
 
