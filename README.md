@@ -1,4 +1,4 @@
-       **BIOINFORMATICS WORKSHOP IN LAIKIPIA UNIVERSITY**
+       BIOINFORMATICS WORKSHOP IN LAIKIPIA UNIVERSITY
      
 my first repository to store and write my information
 
