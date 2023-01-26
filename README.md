@@ -35,12 +35,17 @@ my first repository to store and write my information
 *impotance of data data scientist*
 
 1.clustering
+
 2.summarising
+
 3.prediccting
+
 4.merging
+
 5.collecting
 
 *introduction to Rstudio and R 4.2.2*
+
 1.manipulating numbers using different mathematical signs
 2.exploring the global environment and the tools associated with calculationin collaboration with plots and packages
 
