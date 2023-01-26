@@ -1,4 +1,4 @@
-   **MY FIRST**
+       **BIOINFORMATICS WORKSHOP IN LAIKIPIA UNIVERSITY**
      
 my first repository to store and write my information
 
@@ -23,6 +23,7 @@ my first repository to store and write my information
        DAY THREE
     
 *git  bash introduction*
+
 *installing git hub*
 
 *creating an acount in git hub*
@@ -30,6 +31,7 @@ my first repository to store and write my information
 *writing a resipitory in my account with the help of cheat codes*
 
        DAY FOUR
+       
 *data analysis*
 
 *impotance of data data scientist*
@@ -47,5 +49,6 @@ my first repository to store and write my information
 *introduction to Rstudio and R 4.2.2*
 
 1.manipulating numbers using different mathematical signs
+
 2.exploring the global environment and the tools associated with calculationin collaboration with plots and packages
 
